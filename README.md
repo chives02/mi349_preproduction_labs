@@ -13,4 +13,10 @@
  <h1> Pitchboard <h1> 
       
  [Gamerplan Pitchboard.pdf](https://github.com/chives02/mi349_preproduction_labs/files/7260931/Gamerplan.Pitchboard.pdf)
+   
+   
+ <h1> Shorthand Flow <h1>
+  
+  
+   ![Shorthand flow](https://user-images.githubusercontent.com/74161725/135499501-071a65e7-a351-4824-81e8-b98b298e1efe.jpg)
 
