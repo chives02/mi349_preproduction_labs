@@ -8,3 +8,7 @@
   <h1> Wireframe <h1> 
     
    ![MI349 Wireframe](https://user-images.githubusercontent.com/74161725/135481884-2235f054-0d03-4a58-98b9-2a481e5c32b9.PNG)
+    
+    <h1> Pitchboard <h1> 
+      
+      [Report.pdf](https://github.com/chives02/mi349_preproduction_labs/files/7260863/Report.pdf)
