@@ -12,5 +12,5 @@
     
  <h1> Pitchboard <h1> 
       
- [Report.pdf](https://github.com/chives02/mi349_preproduction_labs/files/7260863/Report.pdf)
+ [Gamerplan Pitchboard.pdf](https://github.com/chives02/mi349_preproduction_labs/files/7260931/Gamerplan.Pitchboard.pdf)
 
